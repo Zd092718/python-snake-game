@@ -7,3 +7,7 @@ Then type:
 ```
 python main.py
 ```
+
+Next step is to relive a classic and try to get the top score!
+
+Credit to Angela Yu's 100 days of Code course on Udemy
